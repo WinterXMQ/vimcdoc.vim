@@ -5,4 +5,4 @@
 
 *使用方法*: 在 .vimrc 中添加如下配置
 
-    Plugin "VundleVim/Vundle.vim"
+    Plugin "WinterXMQ/vimcdoc.vim"
